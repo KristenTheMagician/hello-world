@@ -1,5 +1,4 @@
 # hello-world
-basic beginner business
 
 Hi friends!
 
